@@ -99,7 +99,7 @@ export default function Home() {
 
         <div className="flex-1 bg-gray-800 p-4 overflow-y-auto">
           <div className="bg-gray-700 p-4 rounded shadow prose prose-invert max-w-none">
-            <ReactMarkdown>{response || "💬 Waiting for your dirty thoughts... Tell me what filthy family fantasies make you wet 💦"}</ReactMarkdown>
+            <ReactMarkdown>{response || "💬 Waiting for your dirty thoughts...💦"}</ReactMarkdown>
           </div>
         </div>
 
